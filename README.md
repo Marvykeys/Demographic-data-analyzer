@@ -1,4 +1,4 @@
-# Demographic-data-analyzer
+# Demographic-data-analyzer :chart_with_upwards_trend: :chart_with_downwards_trend:
 
 
 As one of the final tasks at the end of the FREECODECAMP Python For Data Analysis Course, I was required to analyze a demographic data using Pandas. 
